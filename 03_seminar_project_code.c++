@@ -11,7 +11,7 @@ float funcAverage(T1 p, T2 q)
 int main()
 {
     float average;
-    average = funcAverage(7.6, 8.2);
+    average = funcAverage(8, 9);
     cout << "\n\n Average is : " << average <<endl<<endl;
     return 0;
 }
